@@ -1,7 +1,4 @@
 hi this is the git file to try version control
 nice to meet your
 
-exit>>
-:q
 
-
